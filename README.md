@@ -1,18 +1,31 @@
 # Timeline
 - Saturday June 17th
-  - Meeting to discuss timeline and touch base
+  - Meeting to discuss time-line and touch base
 
 - Saturday June 24th
   - Ryan:
-    - create scripts to capture data and output to files in an organized manner4
+    - Create scripts to capture data and output to files in an organized manner (CSV)
     - Create streaming time series plot for live data capture and display
+    - Research little on Fourier transforms (Python)
+    - Buy skin cap, get config
+
   - Max:
+    - Research little on Fourier transforms (Python)
+      - Discrete Fast Fourier Transform?
+
   - Nick:
+    - Time series/noise cancellation Nueral network
+    - Nueral network for brain data classification?
+
 
 - Saturday July 1st;
 
 
 # Current Tasks
+
+- Swim cap/ headset 3d print
+- figure out noise cancelling algo/ method
+- 10/20 spacing and validation of data with literature values
 - Figure out pyserial
   - how does it output values
   - whats the most efficient way to handle output to file
